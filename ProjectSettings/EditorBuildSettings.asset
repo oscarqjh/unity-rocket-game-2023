@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Fly Over.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/In Out.unity
+    guid: c16f3eedf8179ae4dab458921e7c8db4
+  - enabled: 1
+    path: Assets/Scenes/Rotator.unity
+    guid: fc939f92a69d76340a447072e40275f7
+  - enabled: 1
+    path: Assets/Scenes/Maze.unity
+    guid: e1b8d6b22df8f9a4cbec7600d964e26e
+  - enabled: 0
+    path: Assets/Scenes/Fly Under.unity
+    guid: da6d1155254209c45abff64282777ef9
+  m_configObjects: {}
