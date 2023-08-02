@@ -11,7 +11,7 @@ This project is a result of my participation in the **Complete C# Unity Game Dev
 The goal of the game is to reach the landing pad (yellow) by maneuvering through the obstacles.
 
 The game is hosted [here](https://sharemygame.com/@Aerialguard/rocket-game-2023),
-or alternatively, download the `.exe` from this github to try out the game!
+or alternatively, download the `.rar` from this github's releases to try out the game!
 
 ## Controls
 
